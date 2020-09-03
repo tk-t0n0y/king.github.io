@@ -1,8 +1,8 @@
 ---
 title: Test
 author: Anugrah SR
-date: 2020-07-21 01:09:00 +0800
-categories: [Demo]
+date: 2020-08-04 03:10:00 +0800
+categories: [Demo, Bugbounty]
 tags: [test]
 math: true
 ---
@@ -10,6 +10,9 @@ math: true
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in here.
 
 ## Hello
+
+-----
+* cool
 
 <div class="center">
 
