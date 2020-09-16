@@ -6,8 +6,6 @@ categories: [bugbounty, password reset]
 tags: [password reset, bugbounty, hacking, functionality]
 math: true
 ---
-
-# **10 Password Reset Flaws**
 ##### Common security flaws in password reset functionality compiled from twitter, writeups, disclosed reports.
 ---
 ![Password reset image](https://assets.weforum.org/article/image/large_WaY0UhqO6CYY4WYRB_YD8F8_iPJrdgOT_9myYpF60x4.jpg)
@@ -159,7 +157,7 @@ POST /api/changepass
 * Send to intruder
 * Use null payload
 
-## Reference
+### Reference
 * https://hackerone.com/reports/280534
 * https://hackerone.com/reports/794395
 
