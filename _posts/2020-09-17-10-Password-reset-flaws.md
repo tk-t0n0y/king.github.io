@@ -2,8 +2,8 @@
 title: 10 Password Reset Flaws
 author: Anugrah SR
 date: 2020-09-17 00:00:00 +0800
-categories: [bugbounty, password reset]
-tags: [password reset, bugbounty, hacking, functionality]
+categories: [Bugbounty, Password reset]
+tags: [Bugbounty, Hacking, Password]
 math: true
 ---
 ##### Common security flaws in password reset functionality compiled from twitter, writeups, disclosed reports.
@@ -39,7 +39,7 @@ If you find a host header attack and it's out of scope, try to find the password
 * Intercept the password reset request in Burpsuite
 * Add follwing header or edit header in burpsuite(try one by one)
 
-*You can use ngrock server as your attacker server*
+*You can use ngrok server as your attacker server*
 
  ```bash
  Host: attacker.com
@@ -206,8 +206,8 @@ email=victim@email.com&code=$BRUTE$
 ```
 * Use IP-Rotator on burpsuite to bypass IP based ratelimit.
 
-## Reference
-*https://twitter.com/HusseiN98D/status/1254888748216655872/photo/1
+### Reference
+* https://twitter.com/HusseiN98D/status/1254888748216655872/photo/1
 
 ## [10] Try Using Your Token
 
@@ -218,5 +218,9 @@ POST /resetPassword
 [...]
 email=victim@email.com&code=$YOUR_TOKEN$
 ```
-## Reference
-*https://twitter.com/HusseiN98D/status/1254888748216655872/photo/1
+### Reference
+* https://twitter.com/HusseiN98D/status/1254888748216655872/photo/1
+
+## Conclusion
+Next time when you see a password reset function, check for all these flaws.<br>
+Happy Hunting!
