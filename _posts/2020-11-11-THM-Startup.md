@@ -6,11 +6,11 @@ categories: [Boot2root,Tryhackme]
 tags: [tryhackme, ssh, nmap, sudo, gobuster, ftp, Wireshark, cron]
 math: true
 ---
-# Brute It
+# Startup
 ## About The Room
 *Abuse traditional vulnerabilities via untraditional means.*<br>
-* Url: https://tryhackme.com/room/startup
-* Creator:[r1gormort1s](https://tryhackme.com/p/r1gormort1s)
+* Url:[startup](https://tryhackme.com/room/startup)
+* Creator: [r1gormort1s](https://tryhackme.com/p/r1gormort1s)
 
 ## Reconnaissance
 ### Rustscan
