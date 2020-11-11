@@ -89,7 +89,7 @@ drwxrwxrwx    2 65534    65534        4096 Nov 09 02:12 ftp
 ```
 Get the file `notice.txt` and `.test.log`
 
-```ftp
+```bash
 ftp> get .test.log
 ftp> get notice.txt
 ```
