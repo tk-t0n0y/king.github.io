@@ -1,12 +1,12 @@
 ---
-title: THM{Brute It}
+title: THM{Steel Mountain}
 author: Anugrah SR
-date: 2020-11-07 02:00:00 +0800
+date: 2020-11-12 21:00:00 +0800
 categories: [Boot2root,Tryhackme]
-tags: [Brute, tryhackme, ssh, nmap, sudo,gobuster, john, linux]
+tags: [Brute, tryhackme, ssh, nmap, sudo,gobuster, john, windows]
 math: true
 ---
-# Brute It
+# Steel Mountain
 ## About The Room
 *Learn how to brute, hash cracking and escalate privileges in this box!*<br>
 * Url: https://tryhackme.com/room/bruteit
