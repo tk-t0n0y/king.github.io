@@ -3,8 +3,9 @@ title: THM{Startup}
 author: Anugrah SR
 date: 2020-11-11 06:50:00 +0800
 categories: [Boot2root,Tryhackme]
-tags: [tryhackme, ssh, nmap, sudo, gobuster, ftp, Wireshark, cron]
+tags: [tryhackme, ssh, nmap, sudo, gobuster, ftp, Wireshark, cron, linux]
 math: true
+image: https://imgur.com/BEWeVgTl.png
 ---
 # Startup
 ## About The Room
