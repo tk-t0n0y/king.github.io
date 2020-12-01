@@ -7,7 +7,7 @@ tags: [ tryhackme, nmap, wpscan, linux, ssh, rustscan, Gobuster, burp, jenkins, 
 math: true
 image: ""
 ---
-# Skynet
+# Internal
 ## About The Room
 *.*<br>
 * Url: https://tryhackme.com/room/internal
