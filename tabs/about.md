@@ -12,3 +12,4 @@ title: About
 > Hello! I'm `Anugrah SR`
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/Cyph3r.png" alt="TryHackMe">
+ <img src="http://www.hackthebox.eu/badge/image/1234" alt="Hack The Box"> 
