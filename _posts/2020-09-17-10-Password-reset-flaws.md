@@ -164,6 +164,7 @@ POST /api/changepass
 ## [6] Findout How Password Reset Token is Genrated
 
 Figure out the pattern of passoword reset token
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvCcLcUTksGbpygrJB4III5BTBYEzYQfKJyg&usqp=CAU)
 
 If it
