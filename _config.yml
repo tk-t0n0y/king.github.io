@@ -10,14 +10,14 @@
 
 title: t0n0y                          # the main title
 
-tagline: My way to infosec  # it will display as the sub-title
+tagline: love to hack  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
-# Replace with the website url, e.g. 'https://anugrahsr.github.io'
+# Replace with the website url, e.g. 'https://tonoy.github.io'
 url: 'https://tk-t0n0y.github.io'
 
 author: Torykuzzaman tonoy                  # change to your full name
