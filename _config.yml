@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: CyPH3R                          # the main title
+title: t0n0y                          # the main title
 
 tagline: My way to infosec  # it will display as the sub-title
 
@@ -22,21 +22,21 @@ url: 'https://tk-t0n0y.github.io'
 
 author: Torykuzzaman tonoy                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/IMG20181127164931.jpg   # support internet resources
 
 github:
-  username: Anugrahsr             # change to your github username
+  username: tk-tonoy             # change to your github username
 
 twitter:
-  username: cyph3r_asr            # change to your twitter username
+  username: torykuzzaman.tonoy            # change to your twitter username
 
 social:
-  name: Anugrah SR                  # it will shows as the copyright owner in Footer
-  email: asrmpr@gmail.com             # change to your email address
+  name: torykuzzaman.tonoy                 # it will shows as the copyright owner in Footer
+  email: torykuzzaman2@gmail.com          # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Anugrahsr      # change to your twitter homepage
-    - https://github.com/cyph3r_asr       # change to your github homepage
+    - https://twitter.com/torykuzzaman.tonoy      # change to your twitter homepage
+    - https://github.com/tk-t0n0y       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
